@@ -1,0 +1,59 @@
+---- Classic ----
+-- Blocks --
+name: I
+color: lightBlue
+-1, 0
+0, 0
+1, 0
+2, 0
+center: 0, 0
+
+name: O
+color: yellow
+0, 0
+1, 0
+0, 1
+1, 1
+center: 0, 1
+
+name: T
+color: purple
+0, 0
+-1, 1
+0, 1
+1, 1
+center: 0, 1
+
+name: S
+color: green
+0, 0
+1, 0
+-1, 1
+0, 1
+center: 0, 1
+
+name: Z
+color: red
+-1, 0
+0, 0
+0, 1
+1, 1
+center: 0, 1
+
+name: J
+color: darkBlue
+-1, 0
+-1, 1
+0, 1
+1, 1
+center: 0, 1
+
+name: L
+color: orange
+1, 0
+-1, 1
+0, 1
+1, 1
+center: 0, 1
+
+---- Classic -----
